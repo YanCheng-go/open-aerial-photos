@@ -89,6 +89,9 @@ A curated list of open source datasets and APIs for environmental data science.
 - [JRC open datasets](https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/)
 - https://josm.openstreetmap.de/wiki/Maps
 
+## Ancillary / environment variables
+- Global biome/ecoregion map (2017): [Webmap](https://ecoregions.appspot.com/), [reference](https://academic.oup.com/bioscience/article/67/6/534/3102935?login=true)
+
 # How To Contribute
 
 Please open an issue where you specify which new dataset you would like to add. For new aerial image datasets please provide the following details: country, region, license, URLs, year, resolution, spectral bands, CRS, data format, remarks. You can also suggest changes to existing entries.
