@@ -1,4 +1,4 @@
-# open-data-bucket
+# Aerial images by countres or regions
 A curated list of open source datasets and APIs for environmental data science.
 
 ## Aerial images
