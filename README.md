@@ -1,4 +1,4 @@
-# Aerial images by countres or regions
+# Aerial images by countries or regions
 A curated list of open-source airplane images from the National Aerial Survey.
 
 ## Aerial images
