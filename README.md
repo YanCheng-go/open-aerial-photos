@@ -1,5 +1,5 @@
 # Aerial images by countres or regions
-A curated list of open source datasets and APIs for environmental data science.
+A curated list of open-source airplane images from the National Aerial Survey.
 
 ## Aerial images
 
